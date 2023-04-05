@@ -1,6 +1,10 @@
-
+import Button from "./Button";
 
 const Game = () => {
     //will return timer and click button/score
-    return <h2></h2>
+    return <div>
+        <Button />
+    </div>
 }
+
+export default Game;
